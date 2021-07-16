@@ -1,0 +1,238 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.15)  16 JUL 2021 15:52
+entering extended mode
+**./GameMechanics.tex
+(GameMechanics.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18>
+(C:\Users\chess\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(C:\Users\chess\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(C:\Users\chess\AppData\Local\Programs\MiKTeX\tex/latex/preprint\fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip49
+)
+(C:\Users\chess\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks15
+)
+(C:\Users\chess\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\chess\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\chess\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\chess\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\chess\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\chess\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(C:\Users\chess\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+mode.def
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count175
+\l__pdf_internal_box=\box45
+) (GameMechanics.aux)
+\openout1 = `GameMechanics.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+(C:\Users\chess\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count176
+\scratchdimen=\dimen137
+\scratchbox=\box46
+\nofMPsegments=\count177
+\nofMParguments=\count178
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count179
+\MPscratchDim=\dimen138
+\MPnumerator=\count180
+\makeMPintoPDFobject=\count181
+\everyMPtoPDFconversion=\toks18
+)
+(C:\Users\chess\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 16.
+ (GameMechanics.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+ [1
+
+{C:/Users/chess/AppData/Local/MiKTeX/pdftex/config/pdftex.map}])
+\tf@toc=\write3
+\openout3 = `GameMechanics.toc'.
+
+ [2]
+<minecraft_world.png, id=10, 857.2025pt x 481.8pt>
+File: minecraft_world.png Graphic file (type png)
+<use minecraft_world.png>
+Package pdftex.def Info: minecraft_world.png  used on input line 33.
+(pdftex.def)             Requested size: 428.6002pt x 240.8994pt.
+ [3 <./minecraft_world.png>]
+<risk.jpg, id=16, 618.31pt x 354.32375pt>
+File: risk.jpg Graphic file (type jpg)
+<use risk.jpg>
+Package pdftex.def Info: risk.jpg  used on input line 53.
+(pdftex.def)             Requested size: 309.15424pt x 177.16144pt.
+
+Overfull \hbox (10.15805pt too wide) in paragraph at lines 63--64
+[]\OT1/cmr/m/n/12 Incorporating ran-dom-ness in in-ter-ac-tions al-lows new-com
+-ers to ob-tain some ben-e-fits/avoid
+ []
+
+[4 <./risk.jpg>]
+<factorio_uranium.jpg, id=21, 1919.17pt x 579.16376pt>
+File: factorio_uranium.jpg Graphic file (type jpg)
+<use factorio_uranium.jpg>
+Package pdftex.def Info: factorio_uranium.jpg  used on input line 79.
+(pdftex.def)             Requested size: 383.8272pt x 115.83069pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+[5 <./factorio_uranium.jpg>]
+<settlers_online.jpg, id=25, 1927.2pt x 1084.05pt>
+File: settlers_online.jpg Graphic file (type jpg)
+<use settlers_online.jpg>
+Package pdftex.def Info: settlers_online.jpg  used on input line 105.
+(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+ [6 <./settlers_online.jpg>]
+<call_of_duty.jpg, id=29, 602.25pt x 336.25626pt>
+File: call_of_duty.jpg Graphic file (type jpg)
+<use call_of_duty.jpg>
+Package pdftex.def Info: call_of_duty.jpg  used on input line 127.
+(pdftex.def)             Requested size: 301.12425pt x 168.12772pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+[7 <./call_of_duty.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+<minecraft_bars.png, id=34, 2852.6575pt x 287.0725pt>
+File: minecraft_bars.png Graphic file (type png)
+<use minecraft_bars.png>
+Package pdftex.def Info: minecraft_bars.png  used on input line 151.
+(pdftex.def)             Requested size: 285.28246pt x 28.70892pt.
+[8 <./minecraft_bars.png>]
+<far_cry_3.jpg, id=39, 202.50656pt x 204.01219pt>
+File: far_cry_3.jpg Graphic file (type jpg)
+<use far_cry_3.jpg>
+Package pdftex.def Info: far_cry_3.jpg  used on input line 159.
+(pdftex.def)             Requested size: 101.25302pt x 102.00584pt.
+ [9 <./far_cry_3.jpg>]
+<batman_taunt.jpg, id=43, 1284.8pt x 722.7pt>
+File: batman_taunt.jpg Graphic file (type jpg)
+<use batman_taunt.jpg>
+Package pdftex.def Info: batman_taunt.jpg  used on input line 191.
+(pdftex.def)             Requested size: 385.44298pt x 216.81166pt.
+ [10 <./batman_taunt.jpg>]
+<shadow_of_mordor_nemesis.jpg, id=47, 1204.5pt x 677.53125pt>
+File: shadow_of_mordor_nemesis.jpg Graphic file (type jpg)
+<use shadow_of_mordor_nemesis.jpg>
+Package pdftex.def Info: shadow_of_mordor_nemesis.jpg  used on input line 206.
+(pdftex.def)             Requested size: 361.35278pt x 203.26094pt.
+<ac_rouge_animus.jpg, id=48, 1284.8pt x 722.7pt>
+File: ac_rouge_animus.jpg Graphic file (type jpg)
+<use ac_rouge_animus.jpg>
+Package pdftex.def Info: ac_rouge_animus.jpg  used on input line 224.
+(pdftex.def)             Requested size: 385.44298pt x 216.81166pt.
+
+[11 <./shadow_of_mordor_nemesis.jpg>] [12 <./ac_rouge_animus.jpg>]
+<dark_souls_bars.jpg, id=55, 971.12813pt x 244.66406pt>
+File: dark_souls_bars.jpg Graphic file (type jpg)
+<use dark_souls_bars.jpg>
+Package pdftex.def Info: dark_souls_bars.jpg  used on input line 276.
+(pdftex.def)             Requested size: 388.44437pt x 97.86388pt.
+ [13]
+[14 <./dark_souls_bars.jpg>] [15] (GameMechanics.aux) ) 
+Here is how much of TeX's memory you used:
+ 1279 strings out of 480790
+ 19747 string characters out of 2897301
+ 254991 words of memory out of 3000000
+ 17307 multiletter control sequences out of 15000+200000
+ 538150 words of font info for 43 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,6n,25p,579b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\chess\AppData
+\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/chess/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users
+/chess/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on GameMechanics.pdf (15 pages, 4346775 bytes).
+PDF statistics:
+ 78 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
