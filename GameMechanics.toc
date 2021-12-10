@@ -16,13 +16,18 @@
 \contentsline {subsection}{\numberline {4.3}Justification}{11}%
 \contentsline {section}{\numberline {5}Pillars of Game-play}{12}%
 \contentsline {section}{\numberline {6}Game Worlds}{12}%
-\contentsline {section}{\numberline {7}Melee Combat System}{12}%
-\contentsline {subsection}{\numberline {7.1}Basic moves}{12}%
-\contentsline {subsection}{\numberline {7.2}Stages}{13}%
-\contentsline {subsection}{\numberline {7.3}Related Systems}{13}%
-\contentsline {subsection}{\numberline {7.4}Balance}{14}%
-\contentsline {section}{\numberline {8}Ranged Combat System}{14}%
-\contentsline {section}{\numberline {9}Detection System}{14}%
-\contentsline {section}{\numberline {10}Pursuit System}{14}%
-\contentsline {section}{\numberline {11}XP and Skill Trees}{14}%
-\contentsline {section}{\numberline {12}Addiction Mechanisms}{14}%
+\contentsline {subsection}{\numberline {6.1}Size}{12}%
+\contentsline {subsection}{\numberline {6.2}Interactivity}{12}%
+\contentsline {subsection}{\numberline {6.3}Navigation}{12}%
+\contentsline {section}{\numberline {7}Melee Combat System}{15}%
+\contentsline {subsection}{\numberline {7.1}Basic moves}{15}%
+\contentsline {subsection}{\numberline {7.2}Stages}{15}%
+\contentsline {subsection}{\numberline {7.3}Related Systems}{16}%
+\contentsline {subsection}{\numberline {7.4}Balance}{16}%
+\contentsline {section}{\numberline {8}Ranged Combat System}{17}%
+\contentsline {section}{\numberline {9}Detection System}{17}%
+\contentsline {section}{\numberline {10}Pursuit System}{17}%
+\contentsline {section}{\numberline {11}XP and Skill Trees}{17}%
+\contentsline {subsection}{\numberline {11.1}Purposes}{17}%
+\contentsline {section}{\numberline {12}Time}{17}%
+\contentsline {section}{\numberline {13}Addiction Mechanisms}{17}%

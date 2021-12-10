@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.15)  16 JUL 2021 15:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.15)  11 DEC 2021 02:58
 entering extended mode
 **./GameMechanics.tex
 (GameMechanics.tex
@@ -204,35 +204,53 @@ File: shadow_of_mordor_nemesis.jpg Graphic file (type jpg)
 <use shadow_of_mordor_nemesis.jpg>
 Package pdftex.def Info: shadow_of_mordor_nemesis.jpg  used on input line 206.
 (pdftex.def)             Requested size: 361.35278pt x 203.26094pt.
-<ac_rouge_animus.jpg, id=48, 1284.8pt x 722.7pt>
+
+[11 <./shadow_of_mordor_nemesis.jpg>]
+<ac_rouge_animus.jpg, id=51, 1284.8pt x 722.7pt>
 File: ac_rouge_animus.jpg Graphic file (type jpg)
 <use ac_rouge_animus.jpg>
-Package pdftex.def Info: ac_rouge_animus.jpg  used on input line 224.
+Package pdftex.def Info: ac_rouge_animus.jpg  used on input line 226.
 (pdftex.def)             Requested size: 385.44298pt x 216.81166pt.
-
-[11 <./shadow_of_mordor_nemesis.jpg>] [12 <./ac_rouge_animus.jpg>]
-<dark_souls_bars.jpg, id=55, 971.12813pt x 244.66406pt>
+ [12 <./ac_rouge_animus.jpg>]
+<gta_minimap.jpg, id=55, 112.92188pt x 112.16907pt>
+File: gta_minimap.jpg Graphic file (type jpg)
+<use gta_minimap.jpg>
+Package pdftex.def Info: gta_minimap.jpg  used on input line 252.
+(pdftex.def)             Requested size: 146.7984pt x 145.81975pt.
+<skyrim_compass.png, id=56, 184.2885pt x 19.272pt>
+File: skyrim_compass.png Graphic file (type png)
+<use skyrim_compass.png>
+Package pdftex.def Info: skyrim_compass.png  used on input line 258.
+(pdftex.def)             Requested size: 239.57501pt x 25.05357pt.
+ [13 <./gta_minimap.jpg> <./skyrim_compass.png>]
+<ac_eagle_vision.png, id=62, 1204.5pt x 393.47pt>
+File: ac_eagle_vision.png Graphic file (type png)
+<use ac_eagle_vision.png>
+Package pdftex.def Info: ac_eagle_vision.png  used on input line 268.
+(pdftex.def)             Requested size: 361.35278pt x 118.0419pt.
+ [14 <./ac_eagle_vision.png>] [15]
+<dark_souls_bars.jpg, id=69, 971.12813pt x 244.66406pt>
 File: dark_souls_bars.jpg Graphic file (type jpg)
 <use dark_souls_bars.jpg>
-Package pdftex.def Info: dark_souls_bars.jpg  used on input line 276.
+Package pdftex.def Info: dark_souls_bars.jpg  used on input line 324.
 (pdftex.def)             Requested size: 388.44437pt x 97.86388pt.
- [13]
-[14 <./dark_souls_bars.jpg>] [15] (GameMechanics.aux) ) 
+ [16 <./dark_souls_bars.jpg>] [17] (GameMechanics.aux) ) 
 Here is how much of TeX's memory you used:
- 1279 strings out of 480790
- 19747 string characters out of 2897301
+ 1301 strings out of 480790
+ 20183 string characters out of 2897301
  254991 words of memory out of 3000000
- 17307 multiletter control sequences out of 15000+200000
+ 17329 multiletter control sequences out of 15000+200000
  538150 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,6n,25p,579b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\chess\AppData
-\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/chess/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users
-/chess/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on GameMechanics.pdf (15 pages, 4346775 bytes).
+ 30i,6n,25p,579b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\chess\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/chess/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/User
+s/chess/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+
+Output written on GameMechanics.pdf (17 pages, 4959834 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
+ 88 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
